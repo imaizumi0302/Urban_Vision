@@ -73,7 +73,7 @@ DEST_DIR = "/content/UCSD"
 
 ## Author
 
-**今泉 元 / Hajime Imaizumi**
+**Hajime Imaizumi**
 * [Portfolio (Notion)](https://www.notion.so/2e072e700087801f8b30f5199bd1ea11)
 * [GitHub](https://github.com/imaizumi0302)
 
